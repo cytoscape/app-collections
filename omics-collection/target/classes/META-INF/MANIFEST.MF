@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1493851922280
+Build-Jdk: 1.8.0_65
+Built-By: apico
+Bundle-Activator: org.cytoscape.omicscollection.internal.CyActivator
+Bundle-ManifestVersion: 2
+Bundle-Name: Omics Analysis Collection
+Bundle-SymbolicName: org.cytoscape.omicscollection.omics-collection
+Bundle-Version: 2.0
+Created-By: Apache Maven Bundle Plugin
+Cytoscape-App-Dependencies: stringApp;1.0.5,GeneMANIA;3.4.1,AgilentLiter
+ atureSearch;3.1.1,clusterMaker2;1.1.0,BiNGO;3.0.3,jActiveModules;3.2.1,
+ CyAnimator;2.0.3
+Import-Package: org.cytoscape.service.util;version="[3.3,4)",org.osgi.fr
+ amework;version="[1.5,2)"
+Tool: Bnd-1.50.0
