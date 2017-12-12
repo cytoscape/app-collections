@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cytoscape.functionalcollection</groupId>
 	<artifactId>functional-collection</artifactId>
-	<version>4.0</version>
+	<version>4.1</version>
 
 			<name>Functional Enrichment Collection</name>
 	

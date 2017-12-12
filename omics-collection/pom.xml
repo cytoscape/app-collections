@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cytoscape.omicscollection</groupId>
 	<artifactId>omics-collection</artifactId>
-	<version>3.0</version>
+	<version>3.1</version>
 
 			<name>Omics Analysis Collection</name>
 	
