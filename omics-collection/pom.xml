@@ -76,7 +76,7 @@
 						<Export-Package>${bundle.namespace}</Export-Package>
 						<Private-Package>${bundle.namespace}.internal.*</Private-Package>
 						<Bundle-Activator>${bundle.namespace}.internal.CyActivator</Bundle-Activator>
-						<Cytoscape-App-Dependencies>stringApp;1.2.0,WikiPathways;3.3.1,AgilentLiteratureSearch;3.1.1,clusterMaker2;1.1.0,BiNGO;3.0.3,jActiveModules;3.2.1,CyAnimator;2.0.3</Cytoscape-App-Dependencies>
+						<Cytoscape-App-Dependencies>stringApp;1.2.1,WikiPathways;3.3.1,AgilentLiteratureSearch;3.1.1,clusterMaker2;1.1.0,BiNGO;3.0.3,jActiveModules;3.2.1,CyAnimator;2.0.3</Cytoscape-App-Dependencies>
 											</instructions>
 				</configuration>
 			</plugin>
