@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1540152426863
+Bnd-LastModified: 1540152712475
 Build-Jdk: 1.8.0_181
 Built-By: alexpico
 Bundle-Activator: org.cytoscape.omicscollection.internal.CyActivator
@@ -9,7 +9,7 @@ Bundle-SymbolicName: org.cytoscape.omicscollection.omics-collection
 Bundle-Version: 3.2
 Created-By: Apache Maven Bundle Plugin
 Cytoscape-App-Dependencies: stringApp;1.4.0,WikiPathways;3.3.5,AgilentLi
- teratureSearch;3.1.1,clusterMaker2;2.1.0,BiNGO;3.0.3,jActiveModules;3.2
+ teratureSearch;3.1.1,clusterMaker2;1.2.1,BiNGO;3.0.3,jActiveModules;3.2
  .1,CyAnimator;2.1.0
 Import-Package: org.cytoscape.service.util;version="[3.6,4)",org.osgi.fr
  amework;version="[1.5,2)"
