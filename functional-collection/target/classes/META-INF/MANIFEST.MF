@@ -1,19 +1,19 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1512344259369
-Build-Jdk: 1.8.0_65
-Built-By: apico
+Bnd-LastModified: 1540152358077
+Build-Jdk: 1.8.0_181
+Built-By: alexpico
 Bundle-Activator: org.cytoscape.functionalcollection.internal.CyActivato
  r
 Bundle-ManifestVersion: 2
 Bundle-Name: Functional Enrichment Collection
 Bundle-SymbolicName: org.cytoscape.functionalcollection.functional-colle
  ction
-Bundle-Version: 4.0
+Bundle-Version: 4.2
 Created-By: Apache Maven Bundle Plugin
-Cytoscape-App-Dependencies: stringApp;1.2.0,AgilentLiteratureSearch;3.1.
- 1,clusterMaker2;1.1.0,BiNGO;3.0.3,jActiveModules;3.2.1,CyAnimator;2.0.3
- ,EnrichmentMap;2.2.1,EnViz;3.1.4,WikiPathways;3.3.1,ReactomeFIPlugin;6.
- 1.0,CyTargetLinker;3.0.1
+Cytoscape-App-Dependencies: stringApp;1.4.0,AgilentLiteratureSearch;3.1.
+ 1,clusterMaker2;1.2.1,BiNGO;3.0.3,jActiveModules;3.2.1,CyAnimator;2.1.0
+ ,EnrichmentMap;3.1.0,EnViz;3.1.5,WikiPathways;3.3.5,ReactomeFIPlugin;7.
+ 1.0,CyTargetLinker;4.0.1
 Import-Package: org.cytoscape.service.util;version="[3.6,4)",org.osgi.fr
  amework;version="[1.5,2)"
 Tool: Bnd-1.50.0
